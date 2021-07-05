@@ -1,3 +1,4 @@
+/*
 package org.test.java16.loom;
 
 public class StartVirtualThread {
@@ -13,3 +14,4 @@ public class StartVirtualThread {
         thread.join();
     }
 }
+*/

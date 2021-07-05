@@ -1,3 +1,4 @@
+/*
 package org.test.java16.loom;
 
 import java.util.concurrent.ExecutorService;
@@ -24,3 +25,4 @@ public class RunMillionOfThreads {
         exec.close();
     }
 }
+*/

@@ -1,4 +1,4 @@
-package org.test.java15;
+package org.test.newfeatures;
 
 public class TextBlocksTest {
 

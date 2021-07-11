@@ -1,4 +1,4 @@
-package org.test.java15;
+package org.test.newfeatures;
 
 import java.util.ArrayList;
 import java.util.List;

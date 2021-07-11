@@ -1,4 +1,4 @@
-package org.test.java12.files;
+package org.test.newfeatures;
 
 import java.io.IOException;
 import java.nio.file.Files;
